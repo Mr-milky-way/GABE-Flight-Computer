@@ -1,6 +1,7 @@
 # G.A.B.E.-Filght-Computer
 *Good Avionics, Bad Engineer*
 
+# VER 1.0 is non-functioning *DO NOT USE*
 ## What is it?
 The GABE flight computer is an open source rocket flight computer for controlling amateur or model rockets. It's a 4 layer PCB and pretty standard. It has a CoCom locked GPS, and 2 IMUs, a BMP390, 8 different servo header pins and can be powered off of a 12-26v battery. It uses and arm switch to power it on and has 6 pyro channels. It uses the MIMXRT1062DVJ6B with a teensy bootloader.
 
